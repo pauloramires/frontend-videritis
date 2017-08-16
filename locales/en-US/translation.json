@@ -1,0 +1,66 @@
+{
+  "app": {
+    "name": "i18next"
+  },
+  "primary_menu": {
+    "home": "Home",
+    "about_us": "Company",
+    "services": "Services",
+    "team": "Our Team",
+    "contact": "Contact"
+  },
+  "home": {
+    "tagline": "<strong>efficient IT systems for effective teams</strong>",
+    "learn_more": "Learn More"
+  },
+  "about": {
+    "title": "About <span>us</span>",
+    "subtitle": "We are an IT consultancy company specialized in Business Analysis and System Development.",
+    "what_we_do_title": "What we Do<span class=\"subtitle\">We analyze and optimize the business processes of our customers, and develop IT systems.</span>",
+    "our_mission_title": "Our Mission<span class=\"subtitle\">To bring value to our customers by introducing innovative and efficient processes in its daily operations.</span>",
+    "why_choose_title": "Why choose Us<span class=\"subtitle\">Because we are experienced and reliable, commited with quality, and always place the customer first.</span>"
+  },
+  "services": {
+    "title": "Our <span>Services</span>",
+    "subtitle": "We offer consultancy services in<br><strong>Business Intelligence</strong> and <strong>System Development</strong>",
+    "business_analysis": "Business Analysis",
+    "business_analysis_short_description": "Are you tired of trying to fit your organization into your IT system? Do you need to implement new processes in your company, increase the efficiency of your operations, connect to new partners and obtain more value from your information in real time?<br>We can help you.",
+    "system_development": "System Development",
+    "system_development_short_description": "Would you like to automate your data collection and data analysis processes?<br>Does your IT infrastructure needs an update or do you want to migrate it into the cloud?<br>We design and develop customized IT solutions according the needs and requirements of your organization.",
+    "interested": "Interested in learning more?",
+    "contact_us": "Contact Us"
+  },
+  "team": {
+    "title": "Meet our <span>Team</span>",
+    "name_1": "Paulo dos Santos</h4><span>Consultant</span>",
+    "content_1": "Paulo is a former Portuguese Army Signals Officer, with a Degree in Electrical and Electronic Engineering.<br>Through the course of his career, and after working in several international projects, he has gained valuable experience in systems engineering, business analysis, scientific research, project management, team-leadership and, lately, entrepreneurship.<br>He is the founder of Videritis and our consultant."
+  },
+  "contact": {
+    "title": "<span>Get in Touch</span> with us",
+    "subtitle": "Contact us by email, phone or by using the form below",
+    "address": "<strong>Address:</strong><br>QRSW 08 CL 01, Suite 216<br>CEP 70675-800 Bras\u00edlia<br>Brazil",
+    "phone": "<abbr title=\"Phone Number\"><strong>Phone:</strong></abbr> +55 (61) 8167 0787<br>",
+    "email": "<abbr title=\"Email Address\"><strong>Email:</strong></abbr> contact@videritis.com"
+  },
+  "contact_form": {
+    "click_here": "Click here to Send an Email",
+    "send_email": "Send an Email",
+    "form_title": "Send Us an Email",
+    "name": "Name <small>*</small>",
+    "email_address": "Email <small>*</small>",
+    "phone": "Phone",
+    "subject": "Subject <small>*</small>",
+    "message": "Message <small>*</small>",
+    "send_message": "Send Message",
+    "services": "Services",
+    "service_selector": "-- Select One --",
+    "business_analysis": "Business Analysis",
+    "system_development": "System Development",
+    "other": "Other",
+    "close": "Close"
+  },
+  "footer": {
+    "copyright": "Copyrights &copy; 2015 Videritis. All Rights Reserved"
+  }
+}
+

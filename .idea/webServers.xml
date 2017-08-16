@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8fd181dc-8e22-414b-8ab9-e2a8d65d0c86" name="videritis.com" url="http://videritis.com">
+        <fileTransfer host="videritis.com" port="2222" rootFolder="/home/vider204" accessType="SFTP" password="df98df9edfd9dfc7dfcedf9ddf92dfdadfeadfdfdfc6df9a" username="vider204">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

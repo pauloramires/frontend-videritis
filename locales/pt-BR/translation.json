@@ -1,0 +1,66 @@
+{
+  "app": {
+    "name": "i18next"
+  },
+  "primary_menu": {
+    "home": "Home",
+    "about_us": "Empresa",
+    "services": "Serviços",
+    "team": "Equipe",
+    "contact": "Contato"
+  },
+  "home": {
+    "tagline": "<strong>sistemas eficientes de TI para equipes eficazes</strong>",
+    "learn_more": "Saiba Mais"
+  },
+  "about": {
+    "title": "Sobre <span>Nós</span>",
+    "subtitle": "A Videritis é uma empresa de consultoria em sistemas de Tecnologias da Informação (TI), com foco especial nas áreas de Análise de Negócios e Desenvolvimento de Sistemas.",
+    "what_we_do_title": "O que Fazemos<span class=\"subtitle\">Analisamos organizações e desenvolvemos sistemas de TI de acordo com as suas necessidades operacionais.</span>",
+    "our_mission_title": "Nossa Missão<span class=\"subtitle\">Criar valor para nossos clientes através da implementação de processos inovadores e eficientes em suas operações.</span>",
+    "why_choose_title": "Porquê nós<span class=\"subtitle\">Porque somos experientes e competentes, temos um compromisso com a qualidade, e colocamos o cliente em primeiro lugar.</span>"
+
+  },
+  "services": {
+    "title": "Nossos <span>Serviços</span>",
+    "subtitle": "Oferecemos consultoria nas áreas de<br><strong>Análise de Negócios</strong> e <strong>Desenvolvimento de Sistemas</strong>",
+    "business_analysis": "Análise de Negócios",
+    "business_analysis_short_description": "Cansado de tentar adaptar sua organização a seu sistema de TI? Necessita de implementar novos processos, aumentar a eficiência em suas operações, conectar-se a novos parceiros e obter mais valor de sua informação em tempo real?<br>Podemos ajudar.",
+    "system_development": "Desenvolvimento de Sistemas",
+    "system_development_short_description": "Pretende automatizar seus processos de obtenção e análise de informação?<br>Sua infraestrutura de TI necessita de modernização?<br>Desenvolvemos sistemas totalmente adaptados às suas necessidades de coleta, armazenamento, processamento, análise e partilha de informação. Contacte-nos.",
+    "interested": "Interessado em saber mais sobre nossos serviços?",
+    "contact_us": "Fale conosco"
+  },
+  "team": {
+    "title": "Conheça a nossa <span>Equipe</span>",
+    "name_1": "Paulo dos Santos</h4><span>Consultor</span>",
+    "content_1": "Paulo dos Santos é um ex-oficial de comunicações do Exército Português formado em Engenharia Eléctrica e Eletrônica pela Academia Militar e Instituto Superior Técnico de Lisboa.<br>Durante o percurso da sua carreira, e após ter trabalhado em vários projetos internacionais, ele acumulou experiência relevante nos campos de engenharia de sistemas, análise de negócios, investigação científica, gestão de projetos, liderança de equipes e empreendedorismo.<br>Ele é o fundador da Videritis e nosso consultor."
+  },
+  "contact": {
+    "title": "Nosso <span>contato</span>",
+    "subtitle": "Fale conosco por email, telefone ou através do formulário abaixo.",
+    "address": "<strong>Endereço:</strong><br>QRSW 08 CL 01, Sala 216<br>CEP 70675-800 Brasília<br>Brasil",
+    "phone": "<abbr title=\"Numero Telefone\"><strong>Telefone:</strong></abbr> +55 (61) 8167 0787<br>",
+    "email": "<abbr title=\"Email Address\"><strong>Email:</strong></abbr> contato@videritis.com"
+  },
+  "contact_form": {
+    "click_here": "Envie-nos um Email",
+    "send_email": "Escreva-nos",
+    "form_title": "Sua Mensagem",
+    "name": "Nome <small>*</small>",
+    "email_address": "Email <small>*</small>",
+    "phone": "Telefone",
+    "subject": "Assunto <small>*</small>",
+    "message": "Mensagem <small>*</small>",
+    "send_message": "Enviar Mensagem",
+    "services": "Serviço",
+    "service_selector": "-- Escolha Um --",
+    "business_analysis": "Análise de Negócios",
+    "system_development": "Desenvolvimento de Sistemas",
+    "other": "Outro",
+    "close": "Fechar"
+  },
+  "footer": {
+    "copyright": "Copyright &copy 2015 Videritis. Todos os direitos reservados."
+  }
+}
