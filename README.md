@@ -1,1 +1,1 @@
-https://gitlab.com/pauloramires/frontend-videritis/pages
+https://pauloramires.gitlab.io/frontend-videritis
